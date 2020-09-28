@@ -10,6 +10,7 @@
 * https://www.infosecmatter.com
 * https://hashnode.com/@AnnaJMcDougall
 * https://www.neilmacphail.me.uk
+* https://blog.zsec.uk
 
 # Specific Topics
 
