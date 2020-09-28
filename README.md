@@ -13,5 +13,5 @@ Thanks,
 <br >
 
 
-# Check out my blog - neilmacphail.me.uk
+# Check out my [blog](neilmacphail.me.uk) for more updates and information.
 
