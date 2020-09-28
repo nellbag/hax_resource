@@ -1,1 +1,3 @@
 https://hakin9.org/brute-shark-a-network-analysis-tool/
+https://github.com/dstotijn/hetty	#Open source alternative to Burp
+
