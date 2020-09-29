@@ -9,3 +9,6 @@
 
 ## How to perform source code review to find vulnerabilities in web applications.
 * https://vickieli.dev/hacking/code-review-101/
+
+## Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. 
+* https://github.com/KingOfBugbounty/KingOfBugBountyTips
