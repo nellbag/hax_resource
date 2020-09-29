@@ -23,6 +23,13 @@
 * [Anna Lytical](https://www.youtube.com/channel/UCK-XsdHry-tJ2IsNOHTGdcA)
 * [Cyber Noob](https://www.youtube.com/channel/UC9NY1GcelhtqjBxPBU6ytvQ)
 * [Alpha Cyber Security](https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg)
+* [Jenny Potts](https://www.youtube.com/channel/UCyOT6sWFUY2U1IYA2ZG5UxQ)
+* [ZephrSec](https://www.youtube.com/channel/UCwIgYwu94q1wpgakHPPR1iQ)
+* [ResetHacker](https://www.youtube.com/channel/UChQSrDKLm8NkSsgqZZYtKZA)
+* [krypt0mux bugbounty](https://www.youtube.com/channel/UC6-aStDsDhLmG_ckpyxJPaA)
+* [The XSS Rat](https://www.youtube.com/channel/UCjBhClJ59W4hfUly51i11hg)
+* [Assetnote](https://www.youtube.com/channel/UCZitj8Ue3lkHwOzDceBVqXA)
+* [codingo](https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg)
 
 ## Podcasts
 
