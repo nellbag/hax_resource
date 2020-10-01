@@ -45,7 +45,8 @@
 * [CodeNewbie](https://podcasts.apple.com/us/podcast/codenewbie/id919219256)
 * [Security in Color](https://podcasts.apple.com/us/podcast/security-in-color/id1493794518)
 * [Hacker Valley Studio](https://podcasts.apple.com/gb/podcast/hacker-valley-studio/id1471881997)
-* [Command Line Heroes](https://podcasts.apple.com/za/podcast/command-line-heroes/id1319947289)  
+* [Command Line Heroes](https://podcasts.apple.com/za/podcast/command-line-heroes/id1319947289)
+* [Darknet Diaries](https://darknetdiaries.com)  
 
 ## Twitter
 
